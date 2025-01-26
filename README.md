@@ -42,6 +42,8 @@ python cnn.py
 ## Results
 After training for 10 epochs, the model achieves a test accuracy of approximately **99%**.
 
+![Input Image](./result.png)
+
 ## License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
