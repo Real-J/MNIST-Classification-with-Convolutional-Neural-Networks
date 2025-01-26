@@ -30,7 +30,7 @@ cd mnist-cnn-classification
 
 2. Run the script:
 ```bash
-python cnn_mnist_classification.py
+python cnn.py
 ```
 
 3. View the test accuracy in the output.
